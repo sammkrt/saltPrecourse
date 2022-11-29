@@ -1,0 +1,15 @@
+/home/samkrt/git-salt/bin/Debug/net7.0/git-salt
+/home/samkrt/git-salt/bin/Debug/net7.0/git-salt.deps.json
+/home/samkrt/git-salt/bin/Debug/net7.0/git-salt.runtimeconfig.json
+/home/samkrt/git-salt/bin/Debug/net7.0/git-salt.dll
+/home/samkrt/git-salt/bin/Debug/net7.0/git-salt.pdb
+/home/samkrt/git-salt/obj/Debug/net7.0/git-salt.csproj.AssemblyReference.cache
+/home/samkrt/git-salt/obj/Debug/net7.0/git-salt.GeneratedMSBuildEditorConfig.editorconfig
+/home/samkrt/git-salt/obj/Debug/net7.0/git-salt.AssemblyInfoInputs.cache
+/home/samkrt/git-salt/obj/Debug/net7.0/git-salt.AssemblyInfo.cs
+/home/samkrt/git-salt/obj/Debug/net7.0/git-salt.csproj.CoreCompileInputs.cache
+/home/samkrt/git-salt/obj/Debug/net7.0/git-salt.dll
+/home/samkrt/git-salt/obj/Debug/net7.0/refint/git-salt.dll
+/home/samkrt/git-salt/obj/Debug/net7.0/git-salt.pdb
+/home/samkrt/git-salt/obj/Debug/net7.0/git-salt.genruntimeconfig.cache
+/home/samkrt/git-salt/obj/Debug/net7.0/ref/git-salt.dll
