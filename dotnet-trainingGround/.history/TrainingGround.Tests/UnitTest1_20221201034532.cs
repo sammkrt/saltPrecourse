@@ -1,0 +1,18 @@
+namespace TrainingGround.Tests;
+
+public class UnitTest1
+{
+    [Fact]
+    public void someone_born_in()
+    {
+        // arrange
+        var calculator = new AgeCalculator();
+
+        // act
+        var age = calculator.GetAge(1972, 2022);
+
+        // assert
+        Assert.Equal(50, age);   
+        
+    }
+}
