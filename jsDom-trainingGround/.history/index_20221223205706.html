@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Javascript training ground</title>  
+    <script src="functions.js"></script>
+    <script>
+        console.log("salt> In the head.");
+    
+        function AddListInMain(numberOfListItems) {
+            const ulElement = document.createElement('ul');
+
+            for (let i = 0; i < numberOfListItems; i++) {
+                const liItem = document.createElement('li');
+                liItem.textContent = 'Item #{0}', (i+1);
+                ulElement.appendChild(liItem);
+            }
+        }
+    </script>
+</head>
+<body>
+    <script>
+        console.log("salt> Start of body");
+    </script>
+    <main>
+        <div name="content" class="big bold bright">Content 1</div>
+        <div class="big bold" id="companyName">Content 1</div>
+        <div name="content" class="big">Content 1</div>
+        <ul>
+
+        </ul>
+    
+    </main>
+    <script>
+        
+        const companyName = myFunctions.getCompanyName();
+        document.getElementById('companyName').innerHTML = companyName;
+        const boldNodes = document.getElementsByClassName("bold");
+        for (let i = 0; i < boldNodes.length; i++) {
+            boldNodes[i].innerHTML += "... and bold"
+        }
+        
+        const companyNameElement = document.querySelector('#companyName');
+        companyNameElement.innerHTML = companyName + ' set using a query selector by id';
+
+        const boldNodesQuerySelected = document.querySelectorAll('.bold');
+        for (let i = 0; i < boldNodesQuerySelected.length; i++) {
+            boldNodesQuerySelected[i].innerHTML += '... and bold selected with query ';
+        }
+    </script>
+</body>
+</html>
