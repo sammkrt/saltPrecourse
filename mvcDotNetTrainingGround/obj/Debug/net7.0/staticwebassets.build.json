@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "KE5ET6owT2W5GQwwlDqB8/TJOeZ+gxhvjqD/++4ta60=",
+  "Hash": "qrAIcYCcWIaV64R1O2bfZY9txeWREUgBcPM/OMBelVI=",
   "Source": "mvcDotNetTrainingGround",
   "BasePath": "_content/mvcDotNetTrainingGround",
   "Mode": "Default",
@@ -16,40 +16,6 @@
     }
   ],
   "Assets": [
-    {
-      "Identity": "/home/samkrt/saltPrecourse/mvcDotNetTrainingGround/obj/Debug/net7.0/scopedcss/bundle/mvcDotNetTrainingGround.styles.css",
-      "SourceId": "mvcDotNetTrainingGround",
-      "SourceType": "Computed",
-      "ContentRoot": "/home/samkrt/saltPrecourse/mvcDotNetTrainingGround/obj/Debug/net7.0/scopedcss/bundle/",
-      "BasePath": "_content/mvcDotNetTrainingGround",
-      "RelativePath": "mvcDotNetTrainingGround.styles.css",
-      "AssetKind": "All",
-      "AssetMode": "CurrentProject",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ApplicationBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/samkrt/saltPrecourse/mvcDotNetTrainingGround/obj/Debug/net7.0/scopedcss/bundle/mvcDotNetTrainingGround.styles.css"
-    },
-    {
-      "Identity": "/home/samkrt/saltPrecourse/mvcDotNetTrainingGround/obj/Debug/net7.0/scopedcss/projectbundle/mvcDotNetTrainingGround.bundle.scp.css",
-      "SourceId": "mvcDotNetTrainingGround",
-      "SourceType": "Computed",
-      "ContentRoot": "/home/samkrt/saltPrecourse/mvcDotNetTrainingGround/obj/Debug/net7.0/scopedcss/projectbundle/",
-      "BasePath": "_content/mvcDotNetTrainingGround",
-      "RelativePath": "mvcDotNetTrainingGround.bundle.scp.css",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ProjectBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/samkrt/saltPrecourse/mvcDotNetTrainingGround/obj/Debug/net7.0/scopedcss/projectbundle/mvcDotNetTrainingGround.bundle.scp.css"
-    },
     {
       "Identity": "/home/samkrt/saltPrecourse/mvcDotNetTrainingGround/wwwroot/css/site.css",
       "SourceId": "mvcDotNetTrainingGround",

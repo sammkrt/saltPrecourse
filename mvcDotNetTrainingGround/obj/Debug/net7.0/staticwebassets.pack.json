@@ -1,10 +1,6 @@
 {
   "Files": [
     {
-      "Id": "/home/samkrt/saltPrecourse/mvcDotNetTrainingGround/obj/Debug/net7.0/scopedcss/projectbundle/mvcDotNetTrainingGround.bundle.scp.css",
-      "PackagePath": "staticwebassets/mvcDotNetTrainingGround.bundle.scp.css"
-    },
-    {
       "Id": "/home/samkrt/saltPrecourse/mvcDotNetTrainingGround/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },

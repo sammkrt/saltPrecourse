@@ -22,9 +22,7 @@
 /home/samkrt/saltPrecourse/mvcDotNetTrainingGround/obj/Debug/net7.0/staticwebassets.pack.json
 /home/samkrt/saltPrecourse/mvcDotNetTrainingGround/obj/Debug/net7.0/staticwebassets.build.json
 /home/samkrt/saltPrecourse/mvcDotNetTrainingGround/obj/Debug/net7.0/staticwebassets.development.json
-/home/samkrt/saltPrecourse/mvcDotNetTrainingGround/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
 /home/samkrt/saltPrecourse/mvcDotNetTrainingGround/obj/Debug/net7.0/scopedcss/bundle/mvcDotNetTrainingGround.styles.css
-/home/samkrt/saltPrecourse/mvcDotNetTrainingGround/obj/Debug/net7.0/scopedcss/projectbundle/mvcDotNetTrainingGround.bundle.scp.css
 /home/samkrt/saltPrecourse/mvcDotNetTrainingGround/obj/Debug/net7.0/mvcDotNetTrainingGround.dll
 /home/samkrt/saltPrecourse/mvcDotNetTrainingGround/obj/Debug/net7.0/refint/mvcDotNetTrainingGround.dll
 /home/samkrt/saltPrecourse/mvcDotNetTrainingGround/obj/Debug/net7.0/mvcDotNetTrainingGround.pdb
